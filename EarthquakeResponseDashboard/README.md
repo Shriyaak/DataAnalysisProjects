@@ -1,5 +1,5 @@
 ## Dashboard Page 1:
-![Page1](https://github.com/Shriyaak/Earthquake-Response-Dashboard-Python-Vega-Altair-/blob/main/page1.jpeg?raw=true)
+![Page1](https://github.com/Shriyaak/DataAnalysisProjects/blob/7cc37cbdfaf8f1b317658d563c2559216c4d20bb/EarthquakeResponseDashboard/page1.jpeg)
 
 ## Dashboard Page 2: 
 ![Page2](https://github.com/Shriyaak/Earthquake-Response-Dashboard-Python-Vega-Altair-/blob/main/page2.jpeg?raw=true)
