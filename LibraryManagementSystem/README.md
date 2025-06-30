@@ -6,7 +6,7 @@ The dataset includes tables like `books.csv`, `members.csv`, `issued_status.csv`
 <br/>
 <br/>
 
-![Page](https://github.com/Shriyaak/Library-Management-System/blob/116937053f30d865d6f32a9382698e592bb098d6/Screenshot%202025-04-19%20224918.png)
+![Page](https://github.com/Shriyaak/DataAnalysisProjects/blob/245db3a9d1859554716210ac68cff77e52bda50a/LibraryManagementSystem/Screenshot%202025-04-19%20224918.png)
 
 <br/>
 This project showcases the development of a Library Management System using SQL. It involves designing and managing database tables, carrying out CRUD operations, and running complex SQL queries. The objective is to highlight proficiency in database structure, data handling, and query executio
