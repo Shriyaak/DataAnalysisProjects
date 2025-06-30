@@ -1,4 +1,4 @@
-![dashboard](https://github.com/Shriyaak/BikeSales-Dashboard/blob/main/Dashboard.png?raw=true)
+![dashboard](https://github.com/Shriyaak/DataAnalysisProjects/blob/32caa46e5773d23e812578efeefb03f8871c8aeb/BikeSalesDashboard/Dashboard%20(1).png)
 ## Bike Sales Dashboard Analysis:
 
 The Bike Sales Dashboard provides a comprehensive and detailed analysis of purchasing trends across various customer demographics, offering actionable insights for sales strategies and marketing campaigns. The dashboard allows users to explore key factors influencing bike sales, including income, marital status, commute distance, education, and geographic region.
