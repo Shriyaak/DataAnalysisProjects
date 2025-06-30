@@ -2,7 +2,7 @@
 Level: Beginner<br/>
 This project showcases SQL techniques commonly employed by data analysts to investigate, clean, and analyze retail sales data. It includes creating a retail sales database, conducting exploratory data analysis (EDA), and using SQL queries to address key business questions. <br/>
 
-![Page](https://github.com/Shriyaak/Retail-Sales-Analysis/blob/896d309794d81afb5fcf1b0c67d1006cb5fc834c/RA.png)
+![Page](https://github.com/Shriyaak/DataAnalysisProjects/blob/5e2af60964a39e35b40013a7fc63f3b7b4dba0eb/RetailSalesAnalysis/RA.png)
 
 ## Objectives: 
 Set up a retail sales database: Create and populate a retail sales database with the provided sales data. <br/>
